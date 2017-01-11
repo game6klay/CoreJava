@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/Strings/out" />
+    <output-test url="file:///test/Leetcode Problems" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Amazon Questions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Arrays/MovingZeroes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Arrays/ProductExceptSefl/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Arrays/MaxSubArray/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Strings/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
