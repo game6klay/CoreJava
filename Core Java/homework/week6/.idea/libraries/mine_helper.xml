@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mine-helper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mine-helper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
